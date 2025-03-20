@@ -24,6 +24,7 @@ The testing process includes **test cases, bug reports, test survey, quality rep
     
  ##Quality Report
   - **[Quality Report.pdf](https://github.com/Abdulla-Al-Bayzed/Kimba-2.0-Testing/blob/995f0cedabb6dcfb1b874b102223fa6a2ca7079a/Quality%20Report%20for%20Kimba%20Project.pdf)
+    [Picture](https://github.com/Abdulla-Al-Bayzed/Kimba-2.0-Testing/blob/4d15690005a0d7510208af66744b21b6c147a35d/Kimba%20Quality%20Report.jfif)
 
 ##Key Findings
 - **28 total defects** identified  
