@@ -18,6 +18,7 @@ The testing process includes **test cases, bug reports, test survey, quality rep
  ##Test Plan
 	- **[Test_Plan.docx](https://github.com/Abdulla-Al-Bayzed/Kimba-2.0-Testing/blob/995f0cedabb6dcfb1b874b102223fa6a2ca7079a/Kimba_Project_Test_Plan.docx) # Detailed test strategy
 	- **README.md # Project description
+ 
  ##Test Survey Report
   - **[Test Survey.xlsx](https://github.com/Abdulla-Al-Bayzed/Kimba-2.0-Testing/blob/995f0cedabb6dcfb1b874b102223fa6a2ca7079a/Kimba_Project_Bug_Report.md)
     
